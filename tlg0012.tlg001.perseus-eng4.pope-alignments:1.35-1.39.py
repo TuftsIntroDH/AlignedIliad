@@ -4,8 +4,8 @@ alignments = {
         "pope": """Till, safe at distance, to his god he prays,
 The god who darts around the world his rays.
 
-“O Smintheus! sprung from fair Latona’s line,[47]
-Thou guardian power of Cilla the divine,[48]
+“O Smintheus! sprung from fair Latona’s line,
+Thou guardian power of Cilla the divine,
 Thou source of light! whom Tenedos adores,
 And whose bright presence gilds thy Chrysa’s shores.
 If e’er with wreaths I hung thy sacred fane,"""
