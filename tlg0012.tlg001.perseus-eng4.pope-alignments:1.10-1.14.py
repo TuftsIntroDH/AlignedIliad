@@ -1,14 +1,14 @@
 alignments = {
-    "1.10-1.14": {
-        "butler": """and sent a pestilence upon the host to plague
-                     the people, because the son of Atreus had dishonored Chryses his priest. Now
-                     Chryses had come to the ships of the Achaeans to free his daughter, and had
-                     brought with him a great ransom: moreover he bore in his hand the scepter of
-                     Apollo wreathed with a suppliant's wreath """,
-        "pope": """Sprung the fierce strife, from what offended power
-Latona's son a dire contagion spread,
-And heap'd the camp with mountains of the dead;
-The king of men his reverent priest defied,
-And for the king's offence the people died."""
+    "1.60-1.64": {
+        "butler": """turn roving home if we would escape destruction,
+                     for we are being cut down by war and pestilence at once. Let us ask some priest
+                     or seer [<term xml:lang="grc">mantis</term>], or some reader of dreams (for
+                     dreams, too, are of Zeus) who can tell us why Phoebus Apollo is so angry, and
+                     say """,
+        "pope": """Tis time to save the few remains of war.
+But let some prophet, or some sacred sage,
+Explore the cause of great Apollo's rage;
+Or learn the wasteful vengeance to remove
+By mystic dreams, for dreams descend from Jove."""
     }
 }
